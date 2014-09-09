@@ -1,0 +1,4 @@
+titulo4;descripcion punto;pasaje u;2113;san ramon;;
+titulo5;descripcion punto ñ único;juan esteban montero;4550;las condes;-36.80177299;-73.04542529
+titulo6;descripcio rt;;;;-36.80177299;-73.04542529
+titulo7;descripcio rt;;;;;-73.04542529
